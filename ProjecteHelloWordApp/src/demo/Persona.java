@@ -13,7 +13,7 @@ public class Persona {
     public Persona(int id, String nom, String cognom) {
         this.id = id;
         this.nom = nom;
-        this.cognom = cognom;
+        setCognom(cognom);
     }
 
     public int getId() {

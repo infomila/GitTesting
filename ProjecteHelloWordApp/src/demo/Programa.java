@@ -17,5 +17,9 @@ public class Programa {
         System.out.println("Hola Món !");
     }
     
+    public void reset(){
+        
+    }
+    
 }
   
