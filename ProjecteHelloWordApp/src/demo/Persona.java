@@ -36,9 +36,12 @@ public class Persona {
         return cognom;
     }
 
-    public void setCognom(String cognom) {
+    public void setCognomX(String cognom) {
         this.cognom = cognom;
     }
     
+	public void funcioNova3_0(){
+		
+	}
     
 }
