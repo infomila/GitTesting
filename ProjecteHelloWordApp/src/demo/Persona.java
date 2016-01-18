@@ -36,6 +36,7 @@ public class Persona {
         return cognom;
     }
 
+
     public void setCognomX(String cognom) {
         this.cognom = cognom;
     }
@@ -44,4 +45,9 @@ public class Persona {
 		
 	}
     
+	private branca(){
+		// Més canvis
+		System.out.println("XXXXX");
+	}
+        
 }
