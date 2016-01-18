@@ -42,7 +42,7 @@ public class Persona {
     }
     
 	public void funcioNova3_0(){
-		
+		System.out.println("YYYYY");
 	}
     
 	private branca(){
