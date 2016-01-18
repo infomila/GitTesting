@@ -36,7 +36,7 @@ public class Persona {
         return cognom;
     }
 
-    public void setCognom(String cognom) {
+    public void setCognomY(String cognom) {
         this.cognom = cognom;
     }
     
