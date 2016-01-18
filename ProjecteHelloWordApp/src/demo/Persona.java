@@ -40,5 +40,9 @@ public class Persona {
         this.cognom = cognom;
     }
     
-    
+
+	private branca(){
+
+	}
+        
 }
