@@ -49,5 +49,10 @@ public class Persona {
 		// Més canvis
 		System.out.println("XXXXX");
 	}
-        
+
+	private brancamv30(){
+		// Més canvis
+		System.out.println("XXXXX");
+	}
+	
 }
