@@ -42,7 +42,8 @@ public class Persona {
     
 
 	private branca(){
-
+		// Més canvis
+		System.out.println("XXXXX");
 	}
         
 }
