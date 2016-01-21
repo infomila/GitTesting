@@ -15,6 +15,8 @@ public class Programa {
         System.out.println("Hola Món !");
         System.out.println("Hola Món !");
         System.out.println("Hola Món !");
+		
+		System.out.println("Hola Paco !");
     }
     
     public void reset(){
